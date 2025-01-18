@@ -1,1 +1,2 @@
-"This is odin project tutorial on git and github"
+"This is odin project tutorial on git and github
+changing commit message editor to code
